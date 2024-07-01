@@ -1,0 +1,5 @@
+/* c- : custom css properties to override bootstrap */
+.c-nav-item {
+    width: 100%;
+    text-align: left !important;
+}
